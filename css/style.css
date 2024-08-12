@@ -366,7 +366,7 @@ input[type="date"]:disabled {
 
 #offcanvasExample {
     height: 100vh;
-    background-image: url(../images/indian-travel-destination-beautiful-attractive\ \(1\).jpg);
+    background-image: url(https://hilltopladakh.com/images/indian-travel-destination-beautiful-attractive\ \(1\).jpg);
     background-size: cover;
 }
 
@@ -424,7 +424,7 @@ a:hover {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-image: url('../images/logo.png');
+    background-image: url('https://hilltopladakh.com/images/logo.png');
     background-size: cover;
     opacity: 0;
     animation: hello 0.5s ease-in-out;
@@ -496,7 +496,7 @@ a:hover {
     content: "";
     height: 100%;
     width: 100%;
-    background-image: url(../images/IMG_20210727_144553.jpg);
+    background-image: url(https://hilltopladakh.com/images/IMG_20210727_144553.jpg);
     background-size: cover;
     background-position: bottom;
     position: absolute;
@@ -615,7 +615,7 @@ a:hover {
 
 .rooms-bg::before {
     content: "";
-    background-image: url(../images1/room.jpg);
+    background-image: url(https://hilltopladakh.com/images1/room.jpg);
     background-size: cover;
     background-attachment: scroll;
     background-position: bottom;
@@ -647,7 +647,7 @@ a:hover {
 
 .left {
     height: 600px;
-    background-image: url(../images1/one.jpg);
+    background-image: url(https://hilltopladakh.com/images1/one.jpg);
     background-size: cover;
     transition: transform 0.5s ease-in-out;
 }
@@ -677,7 +677,7 @@ a:hover {
 }
 
 .animate {
-    background-image: url(../images1/del.jpg);
+    background-image: url(https://hilltopladakh.com/images1/del.jpg);
     background-size: cover;
     animation-name: raghav;
     animation-duration: 1s;
@@ -696,7 +696,7 @@ a:hover {
 }
 
 .animatess {
-    background-image: url(../images1/superdel.jpg);
+    background-image: url(https://hilltopladakh.com/images1/superdel.jpg);
     background-size: cover;
     animation-name: raghavss;
     animation-duration: 1s;
@@ -909,7 +909,7 @@ a:hover {
     display: flex;
     align-items: center;
     height: auto;
-    background-image: url(../images/offers-min.jpg);
+    background-image: url(https://hilltopladakh.com/images/offers-min.jpg);
     background-size: cover;
     overflow: hidden;
 }
